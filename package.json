@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    // your dependencies here
+   npm install discord.js
   }
 }
